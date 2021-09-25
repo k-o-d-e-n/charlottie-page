@@ -1,12 +1,11 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
-{% for file in site.static_files %}
+{% for file in site.static_files reversed %}
     {% if file.path contains 'assets/screenshot/' %}
         <script>
             $(function() {
                 $(".iphoneScreen").attr('src', '{{ site.github.baseurl }}{{ file.path }}');
                 $(".iphoneScreen").removeClass("hidden");
-                console.log("{{ file.path }}");
             });
         </script>
     {% elsif file.path contains 'assets/videos/' %}
@@ -14,7 +13,6 @@
             <script>
                 $(function() {
                     $(".iphoneScreen").addClass("hidden");
-                    console.log("remove screenshot");
                 });
             </script>
         {% endunless %}
@@ -23,7 +21,6 @@
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
                     $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/mp4">');
-                    console.log("{{ file.path }}");
                 });
             </script>
         {% elsif file.extname == ".ogg" %}
@@ -31,7 +28,6 @@
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
                     $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/ogg">');
-                    console.log("{{ file.path }}");
                 });
             </script>
         {% elsif file.extname == ".webm" %}
@@ -39,7 +35,6 @@
             $(function() {
                 $(".videoContainer").removeClass("hidden");
                 $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/webm">');
-                console.log("{{ file.path }}");
             });
         </script>
         {% endif %}

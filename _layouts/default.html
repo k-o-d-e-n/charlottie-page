@@ -21,7 +21,29 @@
                             </video>
                         </div>  
                         
+                        <div class="screen-container">
                         <img class="iphoneScreen hidden" src="" alt="">
+                        <ul id="pager-itms" class="pager">
+                        {% for file in site.static_files %}
+                            {% if file.path contains 'assets/screenshot/' %}
+                            <li class="pager-point {% if file.path contains '-00' %}pager-active{% endif %}" id="pager-{{forloop.index}}" onclick="changePage('{{file.path}}', {{forloop.index}})"></li>
+                            {% endif %}
+                        {% endfor %}
+                        </ul>
+                        </div>
+                        <script>
+                            let activePage = null;
+                            function changePage(path, index) {
+                                $(".iphoneScreen").attr('src', '{{ site.github.baseurl }}' + path);
+                                if (activePage) {
+                                    $("#pager-" + activePage).removeClass('pager-active');
+                                } else {
+                                    $("#pager-itms").children(":first").removeClass('pager-active');
+                                }
+                                $("#pager-" + index).addClass('pager-active');
+                                activePage = index;
+                            };
+                        </script>
 
                         {% include screencontent.html %}
 
@@ -54,7 +76,14 @@
                             {% if site.playstore_link %}
                                 <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
                             {% endif %}
+                            {% if site.appstore_link %}
                             <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/appstore.png"></a>
+                            {% endif %}
+                            {% if site.testflight_link %}
+                            <a href="{{site.testflight_link}}" class="testFlight">
+                                <div class="testFlight-content"><small class="testFlight-small-text">Download the beta on</small><br>Testflight</div>
+                            </a>
+                            {% endif %}
                         </div>
                     </div>
                     {% include features.html %}

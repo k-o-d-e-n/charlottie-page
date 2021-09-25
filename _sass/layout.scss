@@ -221,7 +221,34 @@ nav > ul li a:active {
 	color: rgba($header-title-color, 1);
 }
 
-
+.pager {
+	bottom: 40px;
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	-o-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	margin-left: 0;
+	padding-left: 0;
+}
+.pager-point {
+	float:left;
+	height:10px;
+	width:10px;
+	background-color:rgba(0, 0, 0, 0.4);
+	border-radius: 5px;
+	margin: 5px;
+	cursor: pointer;
+	list-style-type: none;
+}
+.pager-point.pager-active {
+	background-color:rgba(0, 0, 0, 0.7);
+}
+.pager-point:hover {
+	background-color:rgba(0, 0, 0, 1)!important;
+}
 
 // Sub Page Header Styling
 .subPageHeaderBackground .logo > p {
@@ -374,10 +401,56 @@ nav > ul li a:active {
 	height: 75px;
 }
 
-
+.testFlight {
+	-webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color: #000;
+    background-color: #000!important;
+    /// border: 2px solid #dee2e6!important;
+    border-radius: 1rem!important;
+    position: relative!important;
+    margin-right: .5rem!important;
+    padding-right: .5rem!important;
+    padding-left: .5rem!important;
+    text-align: right!important;
+    display: inline-block;
+    overflow: hidden;
+    width: 220px;
+    height: 75px;
+    box-sizing: border-box;
+	background: url(https://testflight.apple.com/images/testflight-128x128_27.png) 10% center/20% no-repeat;
+}
+.testFlight-content {
+	-webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+	font-size: 2.5rem;
+	font-weight: 600;
+    color: #fff;
+    text-align: left!important;
+    box-sizing: border-box;
+    position: absolute!important;
+    right: 20px;
+	top: 43%;
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+    line-height: 20px;
+}
+.testFlight-small-text {
+	font-size: 1.2rem;
+}
 
 // iPhone Device Preview
 
+.screen-container {
+	position: relative;
+	width: 349px;
+	margin-left: 26px;
+	margin-top: 23px;
+}
 .iphonePreview {
 	grid-area: p;
 	background-image: url($device-color);
@@ -390,8 +463,6 @@ nav > ul li a:active {
 	width: 349px;
 	-webkit-clip-path: url(#screenMask);
 	clip-path: url(#screenMask);
-	margin-left: 26px;
-	margin-top: 23px;
 }
 
 .videoContainer {
