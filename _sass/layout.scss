@@ -481,14 +481,18 @@ nav > ul li a:active {
 
 @media only screen and (max-width: 1070px) {
 
+	.screen-container {
+		width: 322px;
+		margin-left: 24px;
+		margin-top: 22px;
+	}
+
 	.iphonePreview {
 		background-size: 370px auto;
 	}
 
 	.iphoneScreen {
 		width: 322px;
-		margin-left: 24px;
-		margin-top: 22px;
 	}
 
 	.videoContainer {
@@ -507,6 +511,12 @@ nav > ul li a:active {
 
 @media only screen and (max-width: 992px) {
 
+	.screen-container {
+		width: 226px;
+		margin: 0;
+		margin-top: 17px;
+	}
+
 	.iphonePreview {
 		display: flex;
 		background-size: 260px auto;
@@ -521,8 +531,6 @@ nav > ul li a:active {
 		height: 488px;
 		-webkit-clip-path: url(#screenMask);
 		clip-path: url(#screenMask);
-		margin: 0px;
-		margin-top: 17px;
 	}
 
 	.videoContainer {
