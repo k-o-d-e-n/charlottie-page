@@ -20,7 +20,7 @@
 	<nav class="scroll">
 		<ul>
 			{% for page in site.pages %}
-				{% if (page.hidden == undefined or page.hidden == false) and page.include_in_header == true %}
+				{% if (page.hidden == false or page.hidden == undefined) and page.include_in_header == true %}
 				<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
 				{% endif %}
 			{% endfor %}

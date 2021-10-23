@@ -567,6 +567,20 @@ nav > ul li a:active {
 	padding-left: 15px;
 	padding-right: 15px;
 	width: calc(100%/3);
+	line-height: 1.2;
+}
+
+.badge {
+	background-color: #000;
+	color: #fff;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 1000px;
+	font-weight: bold;
+	font-size: small;
+	white-space: nowrap;
 }
 
 .feature:nth-child(-n+3) {

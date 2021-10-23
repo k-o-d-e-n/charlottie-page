@@ -5,7 +5,7 @@ page_title                                : Charlottie - Animation Editor       
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : ru                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/app/id1585679549   # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
 testflight_link                           : https://testflight.apple.com/join/AwyGVVVl 
@@ -43,8 +43,14 @@ features                                  :
   - title                                 : The biggest library free animations.
     description                           : Discover free animations from LottieFiles.com and open them in editor.
     fontawesome_icon_name                 : star
+
+  - title                                 : Export Telegram sticker.
+    description                           : Create your unique animated sticker or convert animation just in one click with the Auto-adapt technology.
+    fontawesome_icon_name                 : telegram-plane
+    fontawesome_style_prefix              : fab
     
   - title                                 : Desktop version.
+    badge                                 : Coming soon
     description                           : With Charlottie for Desktop you can edit your animation files on your desktop.
     fontawesome_icon_name                 : desktop
 
