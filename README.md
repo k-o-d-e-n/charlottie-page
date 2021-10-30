@@ -4,7 +4,7 @@
 
 # Charlottie App
 
-Download the iOS version on **[AppStore](https://apps.apple.com/app/id1585679549)** and **[TestFlight](https://testflight.apple.com/join/AwyGVVVl)**
+Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id1585679549)** and **[TestFlight](https://testflight.apple.com/join/AwyGVVVl)**
 
 ## Versions History
 

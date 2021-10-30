@@ -50,7 +50,7 @@ features                                  :
     fontawesome_style_prefix              : fab
     
   - title                                 : Desktop version.
-    badge                                 : Coming soon
+#    badge                                 : Coming soon
     description                           : With Charlottie for Desktop you can edit your animation files on your desktop.
     fontawesome_icon_name                 : desktop
 
