@@ -8,6 +8,12 @@ Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id15
 
 ## Versions History
 
+**1.1**
+
+Features:
+- new parameters in shapes;
+- ability to change the size of animation and precomp-layer;
+
 **1.0**
 
 Main features:

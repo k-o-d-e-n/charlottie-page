@@ -15,6 +15,20 @@ hidden: false
 ________
 <br> -->
 
+
+## **Version 1.1**
+
+Features:
+- new parameters in shapes;
+- ability to change the size of animation and precomp-layer;
+
+Imperfections:
+- hierarchy is visible permanently (mac, iPad) and keeps state (iPhone);
+- add/remove/reordering gradient points;
+- an element's name shows on selection;
+
+<br>
+
 ### `Initial Release`
 # **Version 1.0**
 
