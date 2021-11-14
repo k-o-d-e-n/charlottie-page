@@ -15,14 +15,29 @@ hidden: false
 ________
 <br> -->
 
+## **Version 1.2**
+
+**Features:**
+
+- star can be converted to polygon and back
+- masks are now editable
+- solid layer is now editable
+
+**Imperfections:**
+
+- input parameter type is now displayed
+
+<br>
 
 ## **Version 1.1**
 
-Features:
+**Features:**
+
 - new parameters in shapes;
 - ability to change the size of animation and precomp-layer;
 
-Imperfections:
+**Imperfections:**
+
 - hierarchy is visible permanently (mac, iPad) and keeps state (iPhone);
 - add/remove/reordering gradient points;
 - an element's name shows on selection;
@@ -32,7 +47,7 @@ Imperfections:
 ### `Initial Release`
 # **Version 1.0**
 
-Main features:
+**Main features:**
 
 - editing the current animation parameters, without changing the structure of the elements;
 - animation library based on LottieFiles.com;
