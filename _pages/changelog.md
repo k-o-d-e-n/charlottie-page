@@ -15,6 +15,16 @@ hidden: false
 ________
 <br> -->
 
+## **Version 1.3**
+
+**Features:**
+
+- matte is now editable
+- layer's parent is now editable
+- dash pattern is now editable
+
+<br>
+
 ## **Version 1.2**
 
 **Features:**

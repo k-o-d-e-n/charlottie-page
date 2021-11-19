@@ -8,6 +8,13 @@ Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id15
 
 ## Versions History
 
+**1.3**
+
+Features:
+- matte is now editable
+- layer's parent is now editable
+- dash pattern is now editable
+
 **1.2**
 
 Features:
