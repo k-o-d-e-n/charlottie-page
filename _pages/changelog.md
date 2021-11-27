@@ -15,13 +15,27 @@ hidden: false
 ________
 <br> -->
 
+## **Version 1.4**
+
+**Features:**
+
+- image layer is now editable;
+- text layer is now editable;
+- keyframe interpolation is now editable;
+
+**Imperfections:**
+
+- dash pattern is now mutable;
+
+<br>
+
 ## **Version 1.3**
 
 **Features:**
 
-- matte is now editable
-- layer's parent is now editable
-- dash pattern is now editable
+- matte is now editable;
+- layer's parent is now editable;
+- dash pattern is now editable;
 
 <br>
 
@@ -29,13 +43,13 @@ ________
 
 **Features:**
 
-- star can be converted to polygon and back
-- masks are now editable
-- solid layer is now editable
+- star can be converted to polygon and back;
+- masks are now editable;
+- solid layer is now editable;
 
 **Imperfections:**
 
-- input parameter type is now displayed
+- input parameter type is now displayed;
 
 <br>
 

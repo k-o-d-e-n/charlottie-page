@@ -8,19 +8,26 @@ Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id15
 
 ## Versions History
 
+**1.4**
+
+Features:
+- image layer is now editable;
+- text layer is now editable;
+- keyframe interpolation is now editable;
+
 **1.3**
 
 Features:
-- matte is now editable
-- layer's parent is now editable
-- dash pattern is now editable
+- matte is now editable;
+- layer's parent is now editable;
+- dash pattern is now editable;
 
 **1.2**
 
 Features:
-- star can be converted to polygon and back
-- masks are now editable
-- solid layer is now editable
+- star can be converted to polygon and back;
+- masks are now editable;
+- solid layer is now editable;
 
 **1.1**
 
