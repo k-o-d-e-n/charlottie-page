@@ -15,6 +15,16 @@ hidden: false
 ________
 <br> -->
 
+## **Version 1.5**
+
+**Improvements:**
+
+- added jump interpolation;
+- now can import images from Files app;
+- increased accuracy of working with bezier points;
+
+<br>
+
 ## **Version 1.4**
 
 **Features:**

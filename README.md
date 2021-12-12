@@ -8,6 +8,13 @@ Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id15
 
 ## Versions History
 
+**1.5**
+
+Improvements:
+- added jump interpolation;
+- now can import images from Files app;
+- increased accuracy of working with bezier points;
+
 **1.4**
 
 Features:
