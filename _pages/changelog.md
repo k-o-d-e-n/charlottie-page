@@ -15,6 +15,13 @@ hidden: false
 ________
 <br> -->
 
+## **Version 1.6**
+
+**Features:**
+
+- now objects can be deleted;
+- now can add new points in shape path;
+
 ## **Version 1.5**
 
 **Improvements:**

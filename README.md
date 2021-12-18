@@ -8,6 +8,12 @@ Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id15
 
 ## Versions History
 
+**1.6**
+
+Features:
+- now objects can be deleted;
+- now can add new points in shape path;
+
 **1.5**
 
 Improvements:
@@ -57,6 +63,7 @@ Main features:
 - [lottie-ios](https://github.com/airbnb/lottie-ios)
 - [XMLCoder](https://github.com/MaxDesiatov/XMLCoder)
 - [DataCompression](https://github.com/mw99/DataCompression)
+- [BezierKit](https://github.com/hfutrell/BezierKit)
 
 **App content**
 
