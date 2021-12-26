@@ -15,6 +15,21 @@ hidden: false
 ________
 <br> -->
 
+## **Version 1.7**
+
+**Features:**
+
+- now attributes (fill, stroke...) can be added and deleted; (use context menu through long tap or repeat tap)
+- now masks can be deleted;
+
+**Imperfections:**
+
+- masks time conversion;
+
+**Bugs:**
+
+- gradient stroke dash pattern;
+
 ## **Version 1.6**
 
 **Features:**

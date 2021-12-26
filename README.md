@@ -8,6 +8,12 @@ Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id15
 
 ## Versions History
 
+**1.7**
+
+Features:
+- now attributes (fill, stroke...) can be added and deleted; (use context menu through long tap or repeat tap)
+- now masks can be deleted;
+
 **1.6**
 
 Features:
