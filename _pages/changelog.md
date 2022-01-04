@@ -15,6 +15,18 @@ hidden: false
 ________
 <br> -->
 
+## **Version 1.8**
+
+**Features:**
+
+- now can add new elements;
+- enabled an elements reordering;
+- switching of bezier point mode;
+
+**Fixed imperfections:**
+- enabled continuous interaction with Bezier points;
+- some other imperfections;
+
 ## **Version 1.7**
 
 **Features:**

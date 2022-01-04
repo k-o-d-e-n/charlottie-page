@@ -8,6 +8,13 @@ Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id15
 
 ## Versions History
 
+**1.8**
+
+Features:
+- now can add new elements;
+- enabled an elements reordering;
+- switching of bezier point mode (straight line and curve, use double tap);
+
 **1.7**
 
 Features:
@@ -70,6 +77,7 @@ Main features:
 - [XMLCoder](https://github.com/MaxDesiatov/XMLCoder)
 - [DataCompression](https://github.com/mw99/DataCompression)
 - [BezierKit](https://github.com/hfutrell/BezierKit)
+- [CubicBezierCurveSwift](https://github.com/Onaeem26/CubicBezierCurveSwift)
 
 **App content**
 
