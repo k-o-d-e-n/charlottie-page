@@ -17,6 +17,11 @@ ________
 
 ## **Version 1.8**
 
+<div class="aspect-ratio">
+    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.youtube.com/embed/yd_IPxwaqfY"></iframe>
+</div>
+<br>
+
 **Features:**
 
 - now can add new elements;
@@ -27,7 +32,14 @@ ________
 - enabled continuous interaction with Bezier points;
 - some other imperfections;
 
+<br>
+
 ## **Version 1.7**
+
+<div class="aspect-ratio">
+    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.youtube.com/embed/mge9j1Ox9b4"></iframe>
+</div>
+<br>
 
 **Features:**
 
@@ -42,12 +54,21 @@ ________
 
 - gradient stroke dash pattern;
 
+<br>
+
 ## **Version 1.6**
+
+<div class="aspect-ratio">
+    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.youtube.com/embed/6g6lIc379jE"></iframe>
+</div>
+<br>
 
 **Features:**
 
 - now objects can be deleted;
 - now can add new points in shape path;
+
+<br>
 
 ## **Version 1.5**
 
