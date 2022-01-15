@@ -14,7 +14,7 @@ testflight_link                           : https://testflight.apple.com/join/Aw
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Charlottie                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The experimental editor for Lottie animations.
+app_description                           : The experimental editor for Lottie animations and Telegram stickers.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -29,7 +29,7 @@ facebook_username                         : koryttsev.denis
 instagram_username                        : 
 twitter_username                          : k-o-d-e-n
 github_username                           : k-o-d-e-n
-youtube_username                          : 
+youtube_username                          : UCTntWFdvqA-ULkJ5LYoZplQ
 
 
 

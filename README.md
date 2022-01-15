@@ -8,6 +8,13 @@ Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id15
 
 ## Versions History
 
+**1.9**
+
+Features:
+- added context menu actions (copy, paste and so on) for keyframes and elements;
+- added help section;
+- added .png export;
+
 **1.8**
 
 Features:

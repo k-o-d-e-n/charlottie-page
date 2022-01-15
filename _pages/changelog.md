@@ -15,6 +15,25 @@ hidden: false
 ________
 <br> -->
 
+## **Version 1.9**
+
+<div class="aspect-ratio">
+    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.youtube.com/embed/N3epYZvO1p0"></iframe>
+</div>
+<br>
+
+**Features:**
+
+- added context menu actions (copy, paste and so on) for keyframes and elements;
+- added help section;
+- added .png export;
+
+**Fixed imperfections:**
+
+- enabled an advanced Bezier path editing (remove points, select and move all points, close path);
+
+<br>
+
 ## **Version 1.8**
 
 <div class="aspect-ratio">
