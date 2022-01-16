@@ -31,6 +31,15 @@
 			</a>
 		{% endif %}
 
+		{% if site.telegram_username %}
+			<a href="https://t.me/{{ site.telegram_username }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-telegram-plane fa-stack-1x"></i>
+				</span>
+			</a>
+		{% endif %}
+
 		{% if site.github_username %}
 			<a href="https://github.com/{{ site.github_username }}">
 				<span class="fa-stack fa-1x">
