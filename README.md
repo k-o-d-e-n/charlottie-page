@@ -8,6 +8,12 @@ Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id15
 
 ## Versions History
 
+**1.10**
+
+Features:
+- now redo is available;
+- now anchor point can be edited directly, without moving element;
+
 **1.9**
 
 Features:

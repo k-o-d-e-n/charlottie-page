@@ -15,6 +15,29 @@ hidden: false
 ________
 <br> -->
 
+## **Version 1.10**
+
+<div class="aspect-ratio">
+    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.youtube.com/embed/JndGWBhj6q0"></iframe>
+</div>
+<br>
+
+**Features:**
+
+- now redo is available;
+- now anchor point can be edited directly, without moving element;
+
+**Fixed imperfections:**
+
+- now can open blank project;
+
+**Fixed bugs:**
+
+- opening of recent local files;
+- opening file through Files app;
+
+<br>
+
 ## **Version 1.9**
 
 <div class="aspect-ratio">
