@@ -8,6 +8,12 @@ Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id15
 
 ## Versions History
 
+**2.0**
+
+New features:
+- new projects section;
+- new challenges section;
+
 **1.10**
 
 Features:

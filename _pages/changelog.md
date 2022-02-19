@@ -7,13 +7,30 @@ hidden: false
 
 # Changelog
 
-<!-- ### `Second release`
+### `Advanced editor`
 # **Version 2.0**
+
+<div class="aspect-ratio">
+    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.youtube.com/embed/1ImUvk2UePo"></iframe>
+</div>
+<br>
+
+**New features:**
+
+- new projects section;
+- new challenges section;
+
+**Improvements:**
+
+- updated library section (added animation preview);
+- updated editor design;
+- editor now supported light mode;
 
 <br>
 
-________
-<br> -->
+____________________
+
+<br> 
 
 ## **Version 1.10**
 
@@ -175,7 +192,7 @@ ________
 
 <br>
 
-### `Initial Release`
+### `Basic Editor`
 # **Version 1.0**
 
 **Main features:**
