@@ -7,6 +7,20 @@ hidden: false
 
 # Changelog
 
+## **Version 2.1**
+
+<div class="aspect-ratio">
+    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.youtube.com/embed/N0qJIh6pN5I"></iframe>
+</div>
+<br>
+
+**Features:**
+
+- added export to GIF, MP4;
+- added rendering in rLottie;
+
+<br>
+
 ### `Advanced editor`
 # **Version 2.0**
 

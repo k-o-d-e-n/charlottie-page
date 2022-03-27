@@ -8,9 +8,15 @@ Download the macOS, iOS versions on **[AppStore](https://apps.apple.com/app/id15
 
 ## Versions History
 
+**2.1**
+
+Features:
+- added export to GIF, MP4;
+- added rendering in rLottie;
+
 **2.0**
 
-New features:
+Features:
 - new projects section;
 - new challenges section;
 
