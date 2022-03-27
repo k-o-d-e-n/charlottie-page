@@ -1,0 +1,11 @@
+{
+    "features": [
+        "now redo is available",
+        "now anchor point can be edited directly, without moving element"
+    ],
+    "imperfections": ["now can open blank project"],
+    "bugs": [
+        "opening of recent local files",
+        "opening file through Files app"
+    ]
+}

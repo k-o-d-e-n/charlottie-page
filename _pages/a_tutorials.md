@@ -7,15 +7,23 @@ hidden: false
 
 # Tutorials
 
-## **How to edit Telegram sticker**
+{% for tutorial in site.data.tutorials %}
+{% assign tID = tutorial.title | replace: " ", "-" | downcase %}
+{% assign descr = site.data.videos[tID] %}
+## **{{ tutorial.title }}**
 
+{% if tutorial.ytID %}
 <div class="aspect-ratio">
-    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.youtube.com/embed/X3qGITF5TFU"></iframe>
+    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.youtube.com/embed/{{ tutorial.ytID }}"></iframe>
 </div>
 <br>
-
+{% endif %}
+**Duration:** {{ tutorial.dur | times: 1.0 | divided_by: 60 }} min
+{% if descr.desc %}
 **Description:**
-
-In this video, we show you how to edit Telegram stickers easily.
-
+{% for desc in descr.desc %}
+{{ desc }}
+{% endfor %}
+{% endif %}
 <br>
+{% endfor %}

@@ -1,0 +1,11 @@
+{
+    "features": [
+        "new parameters in shapes",
+        "ability to change the size of animation and precomp-layer"
+    ],
+    "imperfections": [
+        "hierarchy is visible permanently (mac, iPad) and keeps state (iPhone)",
+        "add/remove/reordering gradient points",
+        "an element’s name shows on selection"
+    ]
+}

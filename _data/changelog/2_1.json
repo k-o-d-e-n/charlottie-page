@@ -1,0 +1,6 @@
+{
+    "features": [
+        "added export to GIF, MP4",
+        "added rendering in rLottie"
+    ]
+}

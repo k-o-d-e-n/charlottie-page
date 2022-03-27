@@ -1,0 +1,8 @@
+{
+    "features": [
+        "image layer is now editable",
+        "text layer is now editable",
+        "keyframe interpolation is now editable"
+    ],
+    "improvements": ["dash pattern is now mutable"]
+}
