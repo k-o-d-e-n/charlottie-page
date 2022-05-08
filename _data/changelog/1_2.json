@@ -1,8 +1,1 @@
-{
-    "features": [
-        "star can be converted to polygon and back",
-        "masks are now editable",
-        "solid layer is now editable"
-    ],
-    "imperfections": ["input parameter type is now displayed"]
-}
+{"features":["star can be converted to polygon and back","masks are now editable","solid layer is now editable"],"imperfections":["input parameter type is now displayed"]}

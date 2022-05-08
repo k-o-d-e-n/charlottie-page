@@ -1,8 +1,1 @@
-{
-    "major_badge": "Basic Editor",
-    "features": [
-        "editing the current animation parameters, without changing the structure of the elements",
-        "animation library based on LottieFiles.com",
-        "preview and export Telegram stickers"
-    ]
-}
+{"major_badge":"Basic Editor","features":["editing the current animation parameters, without changing the structure of the elements","animation library based on LottieFiles.com","preview and export Telegram stickers"]}

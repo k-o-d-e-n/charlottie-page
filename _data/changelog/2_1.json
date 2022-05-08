@@ -1,6 +1,1 @@
-{
-    "features": [
-        "added export to GIF, MP4",
-        "added rendering in rLottie"
-    ]
-}
+{"features":["added export to GIF, MP4","added rendering in rLottie"]}

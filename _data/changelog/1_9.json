@@ -1,10 +1,1 @@
-{
-    "features": [
-        "added context menu actions (copy, paste and so on) for keyframes and elements",
-        "added help section",
-        "added .png export"
-    ],
-    "imperfections": [
-        "enabled an advanced Bezier path editing (remove points, select and move all points, close path)"
-    ]
-}
+{"features":["added context menu actions (copy, paste and so on) for keyframes and elements","added help section","added .png export"],"imperfections":["enabled an advanced Bezier path editing (remove points, select and move all points, close path)"]}

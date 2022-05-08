@@ -1,7 +1,1 @@
-{
-    "features": [
-        "matte is now editable",
-        "layer’s parent is now editable",
-        "dash pattern is now editable"
-    ]
-}
+{"features":["matte is now editable","layer’s parent is now editable","dash pattern is now editable"]}

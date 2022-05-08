@@ -1,12 +1,1 @@
-{
-    "major_badge": "Advanced editor",
-    "features": [
-        "new projects section",
-        "new challenges section"
-    ],
-    "improvements": [
-        "updated library section (added animation preview)",
-        "updated editor design",
-        "editor now supported light mode"
-    ]
-}
+{"major_badge":"Advanced editor","features":["new projects section","new challenges section"],"improvements":["updated library section (added animation preview)","updated editor design","editor now supported light mode"]}

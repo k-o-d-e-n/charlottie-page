@@ -1,8 +1,1 @@
-{ 
-    "features": [
-        "now attributes (fill, stroke…) can be added and deleted; (use context menu through long tap or repeat tap)",
-        "now masks can be deleted"
-    ],
-    "imperfections": ["masks time conversion"],
-    "bugs": ["gradient stroke dash pattern"]
-}
+{"features":["now attributes (fill, stroke…) can be added and deleted; (use context menu through long tap or repeat tap)","now masks can be deleted"],"imperfections":["masks time conversion"],"bugs":["gradient stroke dash pattern"]}

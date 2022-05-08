@@ -103,6 +103,7 @@ Main features:
 - [DataCompression](https://github.com/mw99/DataCompression)
 - [BezierKit](https://github.com/hfutrell/BezierKit)
 - [CubicBezierCurveSwift](https://github.com/Onaeem26/CubicBezierCurveSwift)
+- [SVGPath](https://github.com/nicklockwood/SVGPath)
 
 **App content**
 
